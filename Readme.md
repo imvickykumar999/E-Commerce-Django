@@ -1,4 +1,3 @@
-![mobile]()
 # Shoppinglyx
 This is a Shopping Website created using Django Framework
 
